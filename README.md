@@ -25,10 +25,10 @@ Google Scholarship 1st Exercise
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_above="@id/keepcoding"
-        android:textColor="#FFC107"
         android:textSize="24sp"
         android:textStyle="bold"
         android:layout_marginLeft="48dp"
+        android:textColor="#FFC107"
         android:text="You girls take a breath"/>
     <TextView
         android:id="@+id/keepcoding"
@@ -52,7 +52,6 @@ Google Scholarship 1st Exercise
         android:layout_marginRight="48dp"
         android:layout_marginBottom="16dp"
         android:textColor="#4CAF50"
-        android:text="From, Juliblues"
-        />
+        android:text="From, Juliblues"/>
 
 </RelativeLayout>
